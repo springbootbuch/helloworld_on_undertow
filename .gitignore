@@ -47,3 +47,9 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 access_logs/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+.factorypath
